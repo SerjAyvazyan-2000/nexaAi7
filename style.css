@@ -2166,7 +2166,7 @@ footer {
     line-height: 16px;
   }
   .features__image{
-    max-width: 292px;
+    max-width: 100%;
   }
   .features-pagination {
     display: flex;
